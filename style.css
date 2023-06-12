@@ -1,0 +1,22 @@
+html{
+    background-color: rgb(205, 221, 207);
+}
+
+h1 {
+    color: blueviolet;
+    font-family: 'Kablammo', cursive;
+}
+
+img {
+    width: 300px;
+}
+span {
+    font-family: 'Kablammo', cursive;
+    font-size: 18px;
+    color: brown;
+}
+
+#rule {
+    color: blue;
+    font: 20px sans-serif;
+}
